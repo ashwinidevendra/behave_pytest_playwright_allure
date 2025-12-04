@@ -1,0 +1,7 @@
+{
+  "base_url": "https://practice.qabrains.com",
+  "valid_user": "qa_tester@qabrains.com",
+  "valid_password": "Password123",
+  "invalid_user": "wronguser",
+  "invalid_password": "wrongpass"
+}

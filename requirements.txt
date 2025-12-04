@@ -1,0 +1,7 @@
+playwright
+behave
+allure-behave
+allure-python-commons
+cucumber_tag_expressions
+pytest-playwright
+allure-pytest
