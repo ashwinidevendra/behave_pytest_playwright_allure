@@ -8,9 +8,7 @@ mkdir -p allure-report
 
 # Run behave with Allure formatter
 #behave 
-echo "i am here"
+echo "Test completed"
 allure generate 
-allure open allure-report
-
 echo "Behave finished. Allure results are in ./allure-results"
 
